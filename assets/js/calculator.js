@@ -12,3 +12,6 @@ let firstValue = null;
 
 // Girilen Operator Bilgisini Tutuyoruz
 let operator = null;
+
+// Girilen Ikinci Deger Girilene Kadar Bekliyoruz Deger Girildiginde Tutuyoruz
+let secondValue = false;
