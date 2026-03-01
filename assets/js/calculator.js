@@ -9,3 +9,6 @@ let displayValue = '0';
 
 // Girilen Ilk Degeri Tutuyoruz
 let firstValue = null;
+
+// Girilen Operator Bilgisini Tutuyoruz
+let operator = null;
