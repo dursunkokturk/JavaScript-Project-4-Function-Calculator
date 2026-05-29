@@ -20,11 +20,13 @@ Projeyi deploy ettikten sonra linki buraya ekleyin.
 
 
 🎛️ Buton Düzeni
-[ +  ]  [ -  ]  [ ×  ]  [ ÷  ]
-[ 7  ]  [ 8  ]  [ 9  ]  [    ]
-[ 4  ]  [ 5  ]  [ 6  ]  [ =  ]
-[ 1  ]  [ 2  ]  [ 3  ]  [    ]
-[ 0  ]  [ .  ]  [ AC ]  [    ]
+
+| --|---| ---|---|
+| + | - | x  | ÷ |
+| 7 | 8 | 9  |   |
+| 4 | 5 | 6  | = |
+| 1 | 2 | 3  |   |
+| 0 | . | AC |   |
 
 = butonu CSS Grid ile sağ sütunda 4 satır boyunca uzanır (grid-area: 2 / 4 / 6 / 5).
 
