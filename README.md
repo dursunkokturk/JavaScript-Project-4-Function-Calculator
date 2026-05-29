@@ -6,6 +6,8 @@ Karanlık temalı, animasyonlu, dört işlem ve ondalık sayı desteği sunan ta
 
 [Proje önizleme.](https://dursunkokturk.github.io/JavaScript-Project-4-Function-Calculator/)
 
+![Proje Görseli](assets/img/javascript-project-calculator-2.png)
+
 ## Özellikler
 
 - Dört İşlem — Toplama, çıkarma, çarpma ve bölme
