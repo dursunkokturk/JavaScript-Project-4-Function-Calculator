@@ -21,6 +21,7 @@ Projeyi deploy ettikten sonra linki buraya ekleyin.
 
 🎛️ Buton Düzeni
 
+|   |   |    |   |
 | --|---| ---|---|
 | + | - | x  | ÷ |
 | 7 | 8 | 9  |   |
