@@ -4,7 +4,7 @@ Karanlık temalı, animasyonlu, dört işlem ve ondalık sayı desteği sunan ta
 
 ## Canlı Önizleme
 
-Projeyi deploy ettikten sonra linki buraya ekleyin.
+[Proje önizleme.](https://dursunkokturk.github.io/JavaScript-Project-4-Function-Calculator/)
 
 ## Özellikler
 
@@ -86,5 +86,5 @@ calculator.js dosyası defer ile yüklenir; DOM hazır olmadan önce çalışmaz
 
 - Fontlar: DM Sans (arayüz) · Space Mono (ekran ve tuş takımı)
 - = Butonu: linear-gradient ile mor degrade, glow box-shadow ve grid'de tam sütun yüksekliği
-Arka Plan: İki radial gradient ile mor ve yeşil ışıma efekti
-Üst Işıma: .calculator::before ile ince yatay gradient çizgi
+- Arka Plan: İki radial gradient ile mor ve yeşil ışıma efekti
+- Üst Işıma: .calculator::before ile ince yatay gradient çizgi
