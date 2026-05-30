@@ -59,15 +59,16 @@ calculator/ <br>
         └── calculator.js <br>
 
 ## Kurulum
-Proje herhangi bir bağımlılık gerektirmez.
-bash# Repoyu klonlayın
-git clone https://github.com/kullanici-adi/calculator.git
+Proje herhangi bir bağımlılık gerektirmez. <br>
+bash# Repoyu klonlayın <br>
+git clone https://github.com/dursunkokturk/JavaScript-Project-4-Function-Calculator.git
 
 ### Proje klasörüne girin
-cd calculator
+cd JavaScript-Project-4-Function-Calculator
 
 ### index.html dosyasını tarayıcıda açın
-open index.html
+Proje klasörü içinde çift tıklayarak yada <br>
+Projeyi VSCode içinde açıp index.html dosyasının üzerinde sağ tıkladıktan sonra "Open With Live Server" tıklayarak projeyi browser'da açıyoruz.
 
 #### Not: 
 calculator.js dosyası defer ile yüklenir; DOM hazır olmadan önce çalışmaz.
@@ -100,6 +101,8 @@ A dark-themed, animated browser-based calculator with four operations and decima
 
 ## Live Preview
 [Project Preview](https://dursunkokturk.github.io/JavaScript-Project-4-Function-Calculator/)
+
+![Proje Görseli](assets/img/javascript-project-calculator-2.png)
 
 ## Features
 
@@ -152,15 +155,16 @@ calculator/ <br>
         └── calculator.js <br>
 
 ## Installation
-The project requires no dependencies.
-bash# Clone the repo
-git clone https://github.com/username/calculator.git
+The project requires no dependencies. <br>
+bash# Clone the repo <br>
+git clone https://github.com/dursunkokturk/JavaScript-Project-4-Function-Calculator.git
 
 ### Navigate to the project folder
-cd calculator
+cd JavaScript-Project-4-Function-Calculator
 
 ### Open index.html in the browser
-open index.html
+Open it by double-clicking inside the project folder, or <br>
+open the project in VSCode, right-click on the index.html file, and select "Open With Live Server" to launch it in the browser.
 
 #### Note: 
 calculator.js is loaded with defer and will not run before the DOM is ready.
